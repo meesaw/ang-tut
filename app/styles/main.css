@@ -1,7 +1,7 @@
 .browsehappy {
   margin: 0.2em 0;
-  background: #ccc;
-  color: #000;
+  background: #ddd;
+  color: #00109;
   padding: 0.2em 0;
 }
 
@@ -19,7 +19,7 @@ body {
 
 /* Custom page header */
 .header {
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e8e8e8;
   margin-bottom: 10px;
 }
 /* Make the masthead heading the same height as the navigation */
@@ -44,10 +44,10 @@ body {
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #00000;
 }
 .jumbotron .btn {
-  font-size: 21px;
+  font-size: 11px;
   padding: 14px 24px;
 }
 
@@ -74,7 +74,7 @@ body {
   }
   /* Space out the masthead */
   .header {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
