@@ -8,10 +8,8 @@
  * Controller of the swFrontApp
  */
 angular.module('swFrontApp')
-  .controller('OrgCtrl', function () {
-    this.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+  .controller('OrgCtrl', function ($scope) {
+
+  	
+    
   });

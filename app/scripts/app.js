@@ -29,6 +29,12 @@ angular
         controller: 'OrgCtrl',
         controllerAs: 'orgs'
       })
+      .when('/edges', {
+        templateUrl: 'views/edges.html',
+        controller: 'EdgesController',
+        controllerAs: 'edg'
+        
+      })
       .otherwise({
         redirectTo: '/'
       });
